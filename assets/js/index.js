@@ -84,7 +84,7 @@ async function fetchFilms(apiUrl) {
 
 /** Fetches the film details in a separate fetch due to the fact that they don't live in the same array. *******/
 async function fetchFilmDetails(imdbID) {
-    const response = await fetch(`http://www.omdbapi.com/?i=${imdbID}&apikey=${apiKey}`)
+    const response = await fetch(`https://www.omdbapi.com/?i=${imdbID}&apikey=${apiKey}`)
     const data = await response.json()
     return data
 }
