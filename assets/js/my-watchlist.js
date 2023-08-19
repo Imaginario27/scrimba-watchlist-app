@@ -58,4 +58,5 @@ document.addEventListener('click', function (e) {
 })
 
 /** On page load *******/
+filmList.innerHTML = getPlaceHolderWatchlistHTML("Your watchlist is looking a little empty...")
 renderWatchList()
