@@ -16,7 +16,7 @@ searchForm.addEventListener("submit", function(e) {
     searchQuery = searchField.value
 
     // Sets the API url
-    const apiUrl = `http://www.omdbapi.com/?s=${searchQuery}&apikey=${apiKey}`
+    const apiUrl = `https://www.omdbapi.com/?s=${searchQuery}&apikey=${apiKey}`
     fetchFilms(apiUrl)
 })
 
