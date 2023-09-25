@@ -9,7 +9,7 @@ The Watchlist App is a handy application that allows users to search for films, 
 - Watchlist data is stored in local storage for easy access.
 
 ## Demo
-Explore the Watchlist App by trying out the [live demo](https://scrimba-colour-scheme-generator-img27.netlify.app/).
+Explore the Watchlist App by trying out the [live demo](https://scrimba-film-watchlist-app-img27.netlify.app/).
 
 ## How to Use
 1. Open the Watchlist App in your web browser.
