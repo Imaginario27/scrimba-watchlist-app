@@ -19,8 +19,12 @@ Explore the Watchlist App by trying out the [live demo](https://scrimba-film-wat
 
 Your personalized film watchlist is just a few clicks away!
 
-## Screenshot
-![Screenshot](https://imaginario27.com/wp-content/uploads/2023/09/generador-esquemas-color-app.png)
+## Screenshots
+### Search films
+![Screenshot - Search films](https://imaginario27.com/wp-content/uploads/2023/09/watchlist-app-film-list.jpg)
+
+### Watchlist 
+![Screenshot - Saved films in the watchlist](https://imaginario27.com/wp-content/uploads/2023/09/watchlist-app-saved-films.jpg)
 
 ## Acknowledgments
 This project was inspired by the need for a simple movie watchlist app.
